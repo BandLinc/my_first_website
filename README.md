@@ -7,7 +7,7 @@ This is the introductory project i created at Moringa while learning git command
 * Open the web pages in any browser
 Chrome,IE
 ## Known Bugs
-{There are currently no bugs associated with the project}
+There are currently no bugs associated with the project
 ## Technologies Used
 I used the Atom as my IDE, Git for versioning and HTML language
 ## Support and contact details
