@@ -1,5 +1,5 @@
 # My First Website Project
-#### {Introduction Project in Moringa}, {29th April 2020}
+#### Introduction Project in Moringa, 29th April 2020
 #### By **List of contributors**
 ## Description
 This is the introductory project i created at Moringa while learning git commands
